@@ -242,7 +242,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://learngitbranching.js.org](https://learngitbranching.js.org/) : The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. 
 
 ## M :
-* [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
+
+* [https://www.mediastudios.org](https://www.mediastudios.org) : Free online tools for media and productivity, including QR code generators, barcode creators, image editors, and file converters.
 * [http://megavn.com](http://megavn.com/) : Download YouTube video, subtitles, channel, playlist for free.
 * [http://mixlr.com](http://mixlr.com/) : Broadcasting live audio made simple.
 * [http://make-everything-ok.com](http://make-everything-ok.com/) : If you are the type of person, who make a mess out of anything given to him, then this site may be helpful to come out of that psychological dilemma.
